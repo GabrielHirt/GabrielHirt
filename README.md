@@ -1,20 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc58a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc58a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Gabriel+Hirt;I'm+26+years+old;I'm+from+Brazil;I'm a+Bachelor's+Degree+in+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc58a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Gabriel+Hirt;I'm+26+years+old;+I'm+a+student+in+Analisys+and+Development+of+System;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
       
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VitorHirtOS&bg_color=0d1117&color=ffc58a&line=ffc58a&point=ffc58a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielHirt&bg_color=0d1117&color=ffc58a&line=ffc58a&point=ffc58a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielHirtOS&theme=ffc58a&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielHirt&theme=ffc58a&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielHirtOS&show_icons=true&count_private=true&hide_border=true&title_color=ffc58a&icon_color=ffc58a&text_color=ffc58a&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHirtOS&layout=compact&hide_border=true&title_color=ffc58a&text_color=ffc58a&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielHirt&show_icons=true&count_private=true&hide_border=true&title_color=ffc58a&icon_color=ffc58a&text_color=ffc58a&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHirt&layout=compact&hide_border=true&title_color=ffc58a&text_color=ffc58a&bg_color=0d1117" />
 </div>
 
 
@@ -46,7 +47,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VitorHirtOS}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielHirt}/count.svg" /></p> 
 <br>
 </div>
 
