@@ -6,22 +6,24 @@
       
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielHirt&bg_color=0d1117&color=ffc58a&line=ffc58a&point=ffc58a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<!-- - 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielHirt&theme=ffc58a&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
+-->
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielHirt&show_icons=true&count_private=true&hide_border=true&title_color=ffc58a&icon_color=ffc58a&text_color=ffc58a&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielHirt&show_icons=true&count_private=true&hide_border=true&title_color=ffc58a&icon_color=ffc58a&text_color=ffc58a&bg_color=0d1117" alt="João G. Hirt github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHirt&layout=compact&hide_border=true&title_color=ffc58a&text_color=ffc58a&bg_color=0d1117" />
 </div>
 
 
 <div align="center"> 
+      <!-- - 
   <a href="https://www.facebook.com/profile.php?id=100079710301346" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=blue" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/vitor-hirt-566292252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue" style="border-radius: 30px" target="_blank"></a> 
+      -->
+<a href="https://www.linkedin.com/feed/?trk=404_page" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
   <!-- -  
