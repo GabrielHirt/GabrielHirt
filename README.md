@@ -23,7 +23,8 @@
   <a href="https://www.facebook.com/profile.php?id=100079710301346" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=blue" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/vitor-hirt-566292252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
+
+  <!-- -  
  ### Main skills:
 
 ![C++](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -53,3 +54,4 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc58a&height=120&section=footer"/>
+  -->
