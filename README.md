@@ -26,6 +26,8 @@
 <a href="https://www.linkedin.com/feed/?trk=404_page" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+<img src="![excel](https://github.com/GabrielHirt/GabrielHirt/assets/98654562/f70e3da4-c22d-46b9-bd6a-8164ddb63217)" height= 30px>
+
   <!-- -  
  ### Main skills:
 
