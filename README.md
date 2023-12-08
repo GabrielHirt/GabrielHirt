@@ -28,34 +28,4 @@
 
 <img src="![excel](https://github.com/GabrielHirt/GabrielHirt/assets/98654562/f70e3da4-c22d-46b9-bd6a-8164ddb63217)" height= 30px>
 
-  <!-- -  
- ### Main skills:
-
-![C++](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orangered)&nbsp;  
-![Sql](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)&nbsp; 
-![Word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=blue)&nbsp; 
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=brown)&nbsp; 
-
-### Tools:
-![Microsft Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=orange)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=pink)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
-![Rider](https://img.shields.io/badge/Rider-0D1117?style=for-the-badge&logo=Rider&logoColor=green)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=blue)&nbsp;
-
-### Operational systems:
-
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=yellow)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielHirt}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc58a&height=120&section=footer"/>
-  -->
+  
