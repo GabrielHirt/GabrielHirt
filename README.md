@@ -21,16 +21,6 @@
 
 <div align="center"> 
       
-![VBA](https://img.shields.io/badge/VBA-52.28%25-blue)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-39.21%25-green)
-![ABAP CDS](https://img.shields.io/badge/ABAP%20CDS-2.50%25-lightgrey)
-![TypeScript](https://img.shields.io/badge/TypeScript-3.01%25-blueviolet)
-![SCSS](https://img.shields.io/badge/SCSS-2.92%25-red)
-![HTML](https://img.shields.io/badge/HTML-1.64%25-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-0.94%25-yellow)
-      
-</div>
-
 
 
 
