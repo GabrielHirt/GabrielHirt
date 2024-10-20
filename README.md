@@ -14,9 +14,25 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielHirt&show_icons=true&count_private=true&hide_border=true&title_color=ffc58a&icon_color=ffc58a&text_color=ffc58a&bg_color=0d1117" alt="João G. Hirt github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHirt&layout=compact&hide_border=true&title_color=ffc58a&text_color=ffc58a&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielHirt&show_icons=true&count_private=true&hide_border=true&title_color=ffc58a&icon_color=ffc58a&text_color=ffc58a&bg_color=0d1117" alt="João G. Hirt github stats" /> 
+  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHirt&layout=compact&hide_border=true&title_color=ffc58a&text_color=ffc58a&bg_color=0d1117" /> -->
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHirt&layout=compact&langs_count=10&hide_border=true&title_color=ffc58a&text_color=ffc58a&bg_color=0d1117&v=3" />
 </div>
+
+<div align="center"> 
+      
+![VBA](https://img.shields.io/badge/VBA-52.28%25-blue)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-39.21%25-green)
+![ABAP CDS](https://img.shields.io/badge/ABAP%20CDS-2.50%25-lightgrey)
+![TypeScript](https://img.shields.io/badge/TypeScript-3.01%25-blueviolet)
+![SCSS](https://img.shields.io/badge/SCSS-2.92%25-red)
+![HTML](https://img.shields.io/badge/HTML-1.64%25-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-0.94%25-yellow)
+      
+</div>
+
+
+
 
 
 <div align="center"> 
@@ -27,5 +43,7 @@
  </div>
 
 <img src="![excel](https://github.com/GabrielHirt/GabrielHirt/assets/98654562/f70e3da4-c22d-46b9-bd6a-8164ddb63217)" height= 30px>
+
+
 
   
